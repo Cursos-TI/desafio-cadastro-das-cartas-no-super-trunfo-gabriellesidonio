@@ -53,7 +53,7 @@ Funcionalidades:
 - Comparações e resultado da rodada (vitória/empate)
 - Exibição de pontuações e atributos escolhidos
 
-## Foram tilizados
+## Foram utilizados
 - `switch` para seleção de atributos
 - `if-else` para determinar resultados
 - Operador ternário para simplificação de expressões
