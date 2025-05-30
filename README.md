@@ -31,7 +31,7 @@ Implementa o **cadastro de duas cidades** com os seguintes campos:
 
 ---
 
-## 🟡 Nível Aventureiro
+## Nível Aventureiro
 Complementa a lógica do Nível Novato com o cálculo de dois novos atributos :
 - **Densidade Populacional** = população / área
 - **PIB per capita** = PIB total / população (com conversão para reais)
@@ -42,8 +42,6 @@ Esses valores são automaticamente calculados e exibidos na saída.
 - Operações com `float` e `int`
 - Organização de expressões aritméticas
 - Impressão com casas decimais controladas (`%.2f`)
-
-📂 Arquivo-fonte: `Super_trunfo_aventureiro/nivelaventureiro.c`
 
 ---
 
